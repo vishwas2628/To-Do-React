@@ -98,10 +98,4 @@ Here is a screenshot of the To-Do app in action:
 
 ![To-Do App Screenshot](./toDoScreenshot.png)
 
-*(You can upload a screenshot image and replace the URL with the correct path to your image.)*
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---

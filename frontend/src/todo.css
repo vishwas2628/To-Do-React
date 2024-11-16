@@ -1,0 +1,8 @@
+ul{
+    list-style: none;
+}
+.task-a{
+    border: 1px solid white;
+    border-radius: 17px;
+    margin-bottom: 5px;
+}

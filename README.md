@@ -96,7 +96,7 @@ Once the app is running, you can:
 
 Here is a screenshot of the To-Do app in action:
 
-![To-Do App Screenshot](./screenshots/todo-app-screenshot.png)
+![To-Do App Screenshot](./toDoScreenshot.png)
 
 *(You can upload a screenshot image and replace the URL with the correct path to your image.)*
 
